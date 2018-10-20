@@ -1,0 +1,9 @@
+{
+  "HOME": "/",
+  "COUNTER": "/counter",
+  "DASHBOARD": "/dashboard",
+  "ADDPURCHASE": "/addpurchase",
+  "SALES": "/sales",
+  "ADDSALES": "/addsales",
+  "PURCHASE": "/purchase"
+}

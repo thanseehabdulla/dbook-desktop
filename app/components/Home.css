@@ -1,0 +1,24 @@
+.container {
+  text-align: center;
+  vertical-align: middle;
+  margin-top: 160px;
+  display: flex;
+  justify-content: center;
+}
+
+.container h1 {
+  font-size: 64px;
+}
+
+.container label input{
+  margin-bottom: 7px;
+}
+
+.container a {
+  font-size: 1.4rem;
+}
+
+
+.backButton {
+  position: absolute;
+}
